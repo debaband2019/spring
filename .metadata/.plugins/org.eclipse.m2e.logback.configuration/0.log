@@ -1,0 +1,289 @@
+2019-12-20 14:52:32,346 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-20 14:53:26,314 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:debSpringProject:0.0.1-SNAPSHOT @ C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\pom.xml.
+2019-12-20 14:53:29,729 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/main/java
+2019-12-20 14:53:29,731 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 14:53:29,779 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 14:53:29,812 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/test/java
+2019-12-20 14:53:32,160 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2019-12-20 14:53:32,164 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-20 14:53:33,734 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:debSpringProject:0.0.1-SNAPSHOT @ C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\pom.xml.
+2019-12-20 14:53:35,423 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/main/java
+2019-12-20 14:53:35,424 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 14:53:35,425 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 14:53:35,427 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/test/java
+2019-12-20 14:53:36,187 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-12-20 14:53:40,135 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 14:53:40,143 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 14:53:40,168 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 14:53:40,174 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 14:53:40,174 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 14:53:42,604 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 14:53:42,607 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 14:53:42,607 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 14:53:42,612 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 14:53:42,612 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:03:30,051 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:03:30,055 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:03:30,058 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:03:30,063 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:03:30,063 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:03:36,712 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:03:36,714 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:03:36,717 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:03:36,721 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:03:36,721 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:04:00,039 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:04:00,042 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:04:00,048 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:04:00,051 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:04:00,051 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:04:57,062 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:04:57,064 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:04:57,068 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:04:57,072 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:04:57,072 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:05:17,192 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:17,195 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:05:17,201 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:05:17,204 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:17,205 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:05:22,698 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:22,701 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:05:22,707 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:05:22,713 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:22,714 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:05:40,603 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:40,605 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:05:40,608 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:05:40,612 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:05:40,613 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:06:03,126 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:03,129 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:06:03,133 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:06:03,139 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:03,139 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:06:19,996 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:19,998 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:06:20,002 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:06:20,005 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:20,006 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:06:23,497 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:23,500 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:06:23,509 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:06:23,515 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:23,515 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:06:29,240 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:29,243 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:06:29,247 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:06:29,252 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:29,253 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:06:38,391 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:38,394 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:06:38,397 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:06:38,403 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:06:38,405 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:15:23,248 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:15:23,250 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:15:23,253 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:15:23,256 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:15:23,257 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:16:05,537 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:05,539 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:16:05,543 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:16:05,548 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:05,548 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:16:09,528 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:09,530 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:16:09,534 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:16:09,540 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:09,541 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:16:19,107 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:19,109 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:16:19,113 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:16:19,116 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:19,116 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:16:48,169 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:48,171 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:16:48,176 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:16:48,180 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:16:48,180 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:17:18,346 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:17:18,347 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:17:18,351 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:17:18,354 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:17:18,354 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:17:23,647 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:17:23,648 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:17:23,652 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:17:23,660 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:17:23,660 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:19:39,752 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:19:39,754 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:19:39,758 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:19:39,761 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:19:39,762 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:20:01,998 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-20 15:20:07,340 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:debSpringProject:0.0.1-SNAPSHOT @ C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\pom.xml.
+2019-12-20 15:20:10,771 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/main/java
+2019-12-20 15:20:10,771 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:20:10,772 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:20:10,773 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/test/java
+2019-12-20 15:20:11,382 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2019-12-20 15:20:12,955 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:20:12,957 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:20:12,981 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:20:12,985 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:20:12,985 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:20:35,792 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-20 15:20:36,875 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:debSpringProject:0.0.1-SNAPSHOT @ C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\pom.xml.
+2019-12-20 15:20:37,869 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/main/java
+2019-12-20 15:20:37,869 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:20:37,870 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:20:37,871 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/test/java
+2019-12-20 15:20:38,162 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-20 15:20:39,489 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:20:39,491 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:20:39,520 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:20:39,524 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:20:39,524 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:21:46,782 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:21:46,786 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:21:46,791 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:21:46,794 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:21:46,795 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:27:10,237 [Worker-14: Launching Executing clean in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:27:10,241 [Worker-14: Launching Executing clean in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2019-12-20 15:27:15,637 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:27:15,638 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:27:15,646 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:27:15,649 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:27:15,649 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:27:26,327 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-20 15:27:34,764 [Worker-12: Launching debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:27:34,764 [Worker-12: Launching debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 15:32:18,045 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:32:18,047 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:32:18,058 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:32:18,060 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:32:18,061 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:35:00,181 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:35:00,182 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:35:00,183 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:35:00,188 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:35:00,189 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:37:23,054 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-20 15:37:30,053 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:debSpringProject:0.0.1-SNAPSHOT @ C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\pom.xml.
+2019-12-20 15:37:33,275 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/main/java
+2019-12-20 15:37:33,276 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:37:33,277 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /debSpringProject/src/main/resources
+2019-12-20 15:37:33,278 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /debSpringProject/src/test/java
+2019-12-20 15:37:33,519 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2019-12-20 15:37:35,131 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:37:35,132 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:37:35,154 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:37:35,157 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:37:35,158 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:37:44,026 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-20 15:37:50,640 [Worker-14: Launching debSpringProject (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:37:50,640 [Worker-14: Launching debSpringProject (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 15:39:21,075 [Worker-20: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:39:21,075 [Worker-20: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 15:40:33,498 [Worker-29: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:40:33,499 [Worker-29: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 15:40:57,296 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:40:57,300 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:40:57,307 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:40:57,311 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:40:57,311 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 15:41:26,859 [Worker-26: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 15:41:26,859 [Worker-26: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 15:41:49,051 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:41:49,055 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 15:41:49,141 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 15:41:49,145 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 15:41:49,145 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:08:38,433 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:08:38,438 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:08:38,457 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:08:38,465 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:08:38,465 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:13:32,759 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:13:32,763 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:13:32,789 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:13:32,793 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:13:32,793 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:16:12,008 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:16:12,010 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:16:12,028 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:16:12,035 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:16:12,036 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:17:34,536 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:17:34,538 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:17:34,540 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:17:34,544 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:17:34,544 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:17:45,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:17:45,849 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:17:45,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:17:45,856 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:17:45,856 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:20:47,592 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:20:47,595 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:20:47,599 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:20:47,603 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:20:47,604 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:25:29,436 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:25:29,438 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:25:29,442 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:25:29,445 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:25:29,446 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:26:51,494 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:26:51,495 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:26:51,500 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:26:51,504 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:26:51,504 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:33:00,091 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:33:00,093 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:33:00,118 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:33:00,122 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:33:00,123 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 16:39:08,889 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:39:08,891 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 16:39:08,899 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 16:39:08,904 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 16:39:08,904 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:02:25,553 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-20 17:03:43,936 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:03:43,943 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 17:03:43,973 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:03:43,977 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:03:43,978 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:03:52,457 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:03:52,465 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 17:03:52,478 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:03:52,482 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:03:52,482 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:08:56,858 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:08:56,863 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:08:56,864 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:08:56,868 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:08:56,869 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:09:05,782 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:09:05,783 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:09:05,784 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:09:05,788 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:09:05,789 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:09:35,946 [Worker-15: Launching debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 17:09:35,948 [Worker-15: Launching debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 17:10:37,758 [Worker-14: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject
+2019-12-20 17:10:37,759 [Worker-14: Launching Executing install in C__Users_DEBASREEBANDYOPADHYA_Documents_workspace-sts-3.9.9.RELEASE_debSpring_debSpringProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2019-12-20 17:11:00,444 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:11:00,446 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-20 17:11:00,491 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:11:00,495 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:11:00,495 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources
+2019-12-20 17:13:13,082 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:13:13,083 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:13:13,083 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-20 17:13:13,087 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-20 17:13:13,088 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DEBASREEBANDYOPADHYA\Documents\workspace-sts-3.9.9.RELEASE\debSpring\debSpringProject\src\test\resources

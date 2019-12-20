@@ -1,0 +1,5 @@
+package resource.copy;
+
+public class HelloResource {
+
+}
